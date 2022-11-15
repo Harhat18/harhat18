@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harun Hatiboğlu</h1>
-<h3 align="center">A passionate Frontend Developer from Türkiye</h3>
+<h3 align="center">A passionate Backend and mobile Developer from Türkiye</h3>
 
 - 🌱 I’m currently learning **react and react-native**
 
