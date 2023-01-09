@@ -13,3 +13,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harhat18&show_icons=true&locale=en" alt="harhat18" /></p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uu5wv7wcfkmzhhosnpqfn2ogc4&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+
