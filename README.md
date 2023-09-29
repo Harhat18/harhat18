@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harun Hatiboğlu</h1>
-<h3 align="center">A passionate Full Stack and mobile Developer from Türkiye</h3>
+<h3 align="center">A passionate Full Stack web and mobile Developer from Türkiye</h3>
 
 
 
